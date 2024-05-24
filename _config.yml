@@ -22,11 +22,11 @@ author: Hemant Hajare
 navbar-links:
   # Blog: "aboutme"
   About: "aboutme"
-  Research: "aboutme"
-  Internships: "aboutme"
-  Student Satellite Program: "aboutme"
+  Research: "research"
+  Internships: "internships"
+  Student Satellite Program: "ssp"
   # CV: "aboutme"
-  Poetry: "aboutme"
+  Poetry: "poetry"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
