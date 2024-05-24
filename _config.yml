@@ -50,10 +50,10 @@ navbar-links:
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "heyhajare@gmail.com"
+  #email: "heyhajare@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   # facebook: deanattali
-  github: "H-e-m-a-n-t"
+  #github: "H-e-m-a-n-t"
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: "@daattali"
@@ -64,7 +64,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
- instagram: "hemo5hajare"
+ #instagram: "hemo5hajare"
  # spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
