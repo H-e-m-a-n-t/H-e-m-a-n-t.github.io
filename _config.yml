@@ -20,11 +20,12 @@ author: Hemant Hajare
 ###############################################
 
 navbar-links:
+  # Blog: "aboutme"
   About: "aboutme"
   Research: "aboutme"
   Internships: "aboutme"
   Student Satellite Program: "aboutme"
-  CV: "aboutme"
+  # CV: "aboutme"
   Poetry: "aboutme"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
